@@ -1,0 +1,1 @@
+EXECUTE GetStudentByNumber @student_number;

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xsi:schemaLocation="students.xsd">
+	<student>
+		<student_first_name>Казимир</student_first_name>
+		<student_last_name>Кантор</student_last_name>
+		<student_number>45672481</student_number>
+		<student_faculty>ФИТ</student_faculty>
+		<student_semester>5</student_semester>
+		<student_contact>+375294783425</student_contact>
+		<student_email>kazimirchik@gmail.com</student_email>
+		<student_registered_date xsi:nil = "true"></student_registered_date>
+		<student_blocked_date xsi:nil = "true"></student_blocked_date>
+		<student_status>Blocked</student_status>
+	</student>
+	<student>
+		<student_first_name>Иван</student_first_name>
+		<student_last_name>Адномах</student_last_name>
+		<student_number>42822642</student_number>
+		<student_faculty>ФИТ</student_faculty>
+		<student_semester>2</student_semester>
+		<student_contact>+3754445635425</student_contact>
+		<student_email>adnomakh_ivan@gmail.com</student_email>
+		<student_registered_date xsi:nil = "true"></student_registered_date>
+		<student_blocked_date xsi:nil = "true"></student_blocked_date>
+		<student_status>Blocked</student_status>
+	</student>
+	<student>
+		<student_first_name>Александр</student_first_name>
+		<student_last_name>Бурковский</student_last_name>
+		<student_number>92342576</student_number>
+		<student_faculty>МП</student_faculty>
+		<student_semester>5</student_semester>
+		<student_contact>+375297835425</student_contact>
+		<student_email>burak_sash@gmail.com</student_email>
+		<student_registered_date xsi:nil = "true"></student_registered_date>
+		<student_blocked_date xsi:nil = "true"></student_blocked_date>
+		<student_status>Blocked</student_status>
+	</student>		
+</students>

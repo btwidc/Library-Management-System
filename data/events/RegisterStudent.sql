@@ -1,0 +1,1 @@
+EXECUTE RegisterStudent @student_number, @student_registered_date, @student_blocked_date, @student_status;

@@ -1,0 +1,1 @@
+EXECUTE DeleteAuthor @author_id;

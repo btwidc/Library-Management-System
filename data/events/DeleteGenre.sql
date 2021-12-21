@@ -1,0 +1,1 @@
+EXECUTE DeleteGenre @genre_id;

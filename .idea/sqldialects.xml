@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/data/events/AddAuthor.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/AddBook.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/AddGenre.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/AddStudent.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/BlockStudent.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/DeleteAuthor.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/DeleteBook.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/DeleteGenre.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/DeleteStudent.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/ExportStudents.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetAuthors.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetAuthorsHistory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetBookById.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetBookByName.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetBooks.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetBooksByAuthor.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetBooksByGenre.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetBooksHistory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetCountBooksByAuthors.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetGenres.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetGenresHistory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetOrders.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetOrdersByStudent.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetReturns.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetStudentByNumber.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetStudents.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/GetStudentsHistory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/ImportStudents.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/OrderBook.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/RegisterStudent.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/ReturnBook.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/UpdateBook.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/events/UpdateStudent.sql" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="TSQL" />
+  </component>
+</project>

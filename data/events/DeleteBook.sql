@@ -1,0 +1,1 @@
+EXECUTE DeleteBook @book_id;

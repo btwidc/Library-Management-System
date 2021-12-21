@@ -1,0 +1,24 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name = "students">
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name = "student">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name = "student_first_name" type = "xs:string"/>
+        <xs:element name = "student_last_name" type = "xs:string"/>
+        <xs:element name = "student_number" type = "xs:integer"/>
+        <xs:element name = "student_faculty" type = "xs:string"/>
+        <xs:element name = "student_semester" type = "xs:integer"/>
+        <xs:element name = "student_contact" type = "xs:string"/>
+        <xs:element name = "student_email" type = "xs:string"/>
+        <xs:element name = "student_registered_date" type = "xs:dateTime" nillable="true"/>
+        <xs:element name = "student_blocked_date" type = "xs:dateTime" nillable="true"/>
+        <xs:element name = "student_status" type = "xs:string"/>
+      </xs:sequence>    
+    </xs:complexType>
+    </xs:element>
+  </xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>
